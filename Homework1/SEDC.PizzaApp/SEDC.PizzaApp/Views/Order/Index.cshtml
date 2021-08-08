@@ -1,0 +1,14 @@
+﻿@model List<SEDC.PizzaApp.Models.Domain.Order>
+
+    <h2>These are the orders:</h2>
+
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+<p> Order Id :@Model[i].Id - with delivery: @Model[i].IsDelivery</p>
+<h4>Pizzas Ordered:  </h4>
+foreach(Pizza pizza in Model[i].PizzasOrdered)
+                {
+                    <p>@pizza.Name</p>
+                }
+        <hr/>
+}

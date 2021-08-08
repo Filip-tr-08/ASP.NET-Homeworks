@@ -1,0 +1,8 @@
+﻿@model SEDC.PizzaApp.Models.Domain.Order
+
+<h2>Details about order with ID: @Model.Id </h2>
+<p>With delivery: @Model.IsDelivery</p>
+@foreach(Pizza pizza in Model.PizzasOrdered)
+            {
+             <p>@pizza.Name -- @pizza.Price</p>
+            }
