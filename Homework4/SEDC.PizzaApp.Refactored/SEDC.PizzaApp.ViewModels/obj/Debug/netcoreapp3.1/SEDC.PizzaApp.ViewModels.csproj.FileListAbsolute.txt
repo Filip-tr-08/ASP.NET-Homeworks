@@ -1,0 +1,12 @@
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\Homework4\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
