@@ -139,11 +139,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net domasni\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj",
+      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET Homeworks\\ASP.NET-Homeworks\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj",
       "projectName": "SEDC.PizzaApp.Helpers",
-      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net domasni\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj",
+      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET Homeworks\\ASP.NET-Homeworks\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net domasni\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\obj\\",
+      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET Homeworks\\ASP.NET-Homeworks\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,11 +160,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net domasni\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj": {
-              "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net domasni\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj"
+            "E:\\web development\\seavus prezentacii i materijali\\ASP.NET Homeworks\\ASP.NET-Homeworks\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj": {
+              "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET Homeworks\\ASP.NET-Homeworks\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj"
             },
-            "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net domasni\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
-              "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net domasni\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj"
+            "E:\\web development\\seavus prezentacii i materijali\\ASP.NET Homeworks\\ASP.NET-Homeworks\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
+              "projectPath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET Homeworks\\ASP.NET-Homeworks\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj"
             }
           }
         }

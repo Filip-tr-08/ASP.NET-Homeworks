@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0XrlJbd4CoXKDGrIj6Y6lZGl/xUwrei1qWhbjKq1KaQb1jAgzmhJnNQ7CzmykPqRgMUsDP8yVw1pBqS98Q3qow==",
+  "dgSpecHash": "jVZbhvo5oLEU9kwsJ+L0HXgtWqomjACuTI8iS3JkIIP2P/7HlM2rRAYRoN2jJA+GYfkqq7DobpMSL4tDozEGYA==",
   "success": true,
-  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\asp.net domasni\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
+  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\ASP.NET Homeworks\\ASP.NET-Homeworks\\Homework4\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Filip\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.18\\microsoft.aspnetcore.mvc.razor.extensions.3.1.18.nupkg.sha512",
     "C:\\Users\\Filip\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.18\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.18.nupkg.sha512",
