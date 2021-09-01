@@ -1,0 +1,9 @@
+﻿@model List<OrderListViewModel> 
+
+<ul>
+    @foreach (OrderListViewModel order in Model)
+    {
+        <li>Id : @order.Id - Name: @order.UserFullName - delivered:  @order.Delivered</li>
+    }
+</ul>
+
