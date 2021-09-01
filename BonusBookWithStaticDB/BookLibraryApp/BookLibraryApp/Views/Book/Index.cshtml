@@ -1,0 +1,32 @@
+﻿@model List<BookListViewModel>
+
+<div class="text-center" style="color:white">
+    <h2 class="display-4">List of books:</h2>
+</div>
+<br />
+<div class="row">
+    @foreach (var book in @Model)
+    {
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem; margin-left:10px;">
+        @if (book.IsOnPromotion)
+        {
+            <div class="card-header">ON PROMOTION</div>
+        }
+        else
+        {
+            <div class="card-header">NOT ON PROMOTION</div>
+
+        }
+        <div class="card-body">
+            <h6>Title: @book.Title</h6>
+            <h6>Genre: @book.Genre</h6>
+            <h6>Price: @book.Price</h6>
+        </div>
+        <a asp-controller="Book" asp-action="Details" asp-route-id="@book.Id">See details</a>
+        <a asp-controller="Book" asp-action="Edit" asp-route-id="@book.Id">Edit book</a>
+        <a asp-controller="Book" asp-action="Delete" asp-route-id="@book.Id">Delete book</a>
+    </div>}
+</div>
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Book" class="btn btn-primary">Create Book</a>
+</div>

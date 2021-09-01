@@ -1,0 +1,26 @@
+﻿@model List<AuthorListViewModel>
+
+<div class="text-center" style="color:white">
+    <h2 class="display-4">List of authors:</h2>
+</div>
+<br />
+<div class="row">
+    @foreach (var author in @Model)
+    {
+
+
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem; margin-left:10px;">
+        <div class="card-header">Author: @author.FullName</div>
+        <div class="card-body">
+            <h6>Nationality: @author.Nationality</h6>
+
+        </div>
+        <a asp-controller="Author" asp-action="Details" asp-route-id="@author.Id">See details</a>
+        <a asp-controller="Author" asp-action="Edit" asp-route-id="@author.Id">Edit author</a>
+        <a asp-controller="Author" asp-action="Delete" asp-route-id="@author.Id">Delete author</a>
+
+    </div>}
+</div>
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Author" class="btn btn-primary">Create Author</a>
+</div>

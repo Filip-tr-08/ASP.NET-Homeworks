@@ -1,0 +1,18 @@
+﻿@model MemberDetailsViewModel
+
+<div class="text-center" style="color:white">
+    <h2 class="display-4">Member Details:</h2>
+</div>
+<br />
+<br />
+<div class="card" style="color:white">
+    <div class="card-body">
+        <h5 class="card-title"><label asp-for="FullName"></label>:@Model.FullName</h5>
+        <h6 class="card-subtitle mb-2 text-muted"><label asp-for="Address"></label>:@Model.Address</h6>
+        <h6 class="card-subtitle mb-2 text-muted"><label asp-for="Age"></label>:@Model.Age</h6>
+        <p class="card-subtitle mb-2 text-muted"><label asp-for="DateJoined"></label>:@Model.DateJoined</p>
+        <p class="card-subtitle mb-2 text-muted">Reservations : @Model.ReservationsPerMember.Count</p>
+    </div>
+    
+</div>
+<br />

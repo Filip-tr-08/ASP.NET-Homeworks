@@ -1,0 +1,26 @@
+﻿@model List<MemberListViewModel>
+
+<div class="text-center" style="color:white">
+    <h2 class="display-4">List of members:</h2>
+</div>
+<br />
+<div class="row">
+    @foreach (var member in @Model)
+    {
+
+
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem; margin-left:10px;">
+        <div class="card-header">Full Name: @member.FullName</div>
+        <div class="card-body">
+            <h6>Age: @member.Age</h6>
+
+        </div>
+        <a asp-controller="Member" asp-action="Details" asp-route-id="@member.Id">See details</a>
+        <a asp-controller="Member" asp-action="Edit" asp-route-id="@member.Id">Edit member</a>
+        <a asp-controller="Member" asp-action="Delete" asp-route-id="@member.Id">Delete member</a>
+    </div>}
+</div>
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Member" class="btn btn-primary">Create Member</a>
+</div>
+

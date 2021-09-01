@@ -1,0 +1,12 @@
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\bin\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\bin\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\bin\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\obj\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\obj\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\obj\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\obj\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\obj\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\obj\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\bin\Debug\netcoreapp3.1\BookLibraryApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\bin\Debug\netcoreapp3.1\BookLibraryApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.ViewModels\obj\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.csproj.CopyComplete

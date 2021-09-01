@@ -1,0 +1,34 @@
+﻿@model ReservationDetailsViewModel
+
+    <h3 style="color:white">Are you sure you want to delete the following reservation:</h3>
+
+<div class="text-center" style="color:white">
+    <h2 class="display-4">Reservation Details:</h2>
+</div>
+<br />
+<br />
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title"><label asp-for="MemberFullName"></label>:@Model.MemberFullName</h5>
+        <h6 class="card-subtitle mb-2 text-muted"><label asp-for="PaymentMethod"></label>@Model.PaymentMethod</h6>
+        <h6 class="card-subtitle mb-2 text-muted">Reading @Model.ReservationMethod</h6>
+        <p class="card-subtitle mb-2 text-muted"><label asp-for="DateTimeBegin"></label>;@Model.DateTimeBegin</p>
+        <p class="card-subtitle mb-2 text-muted"><label asp-for="DateTimeEnd"></label>:@Model.DateTimeEnd</p>
+    </div>
+</div>
+<br />
+<div class="row">
+    @foreach (var book in Model.Books)
+    {
+        <div class="card" style="width: 18rem; margin-left:15px;">
+            <img class="card-img-top" src="@book.ImageLink" alt="Card image cap">
+            <div class="card-body">
+                <h4 class="text-center">@book.Title</h4>
+            </div>
+        </div>}
+</div>
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" value="Delete" class="btn btn-danger mb-2 mt-2" />
+</form>
+<a asp-action="Index" class="btn btn-info">Back/Cancel</a>

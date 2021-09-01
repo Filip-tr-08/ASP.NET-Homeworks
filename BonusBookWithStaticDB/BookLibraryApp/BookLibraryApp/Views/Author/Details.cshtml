@@ -1,0 +1,43 @@
+﻿@model AuthorDetailsViewModel
+
+<div class="text-center" style="color:white">
+    <h2 class="display-4">Author Details:</h2>
+</div>
+<br />
+<br />
+<div class="card" style="display: flex; flex-direction: row; overflow-wrap: break-word">
+    <div class="card-body">
+        <h5 class="card-title"><label asp-for="FullName"></label>:@Model.FullName</h5>
+        <h6 class="card-subtitle mb-2 text-muted"><label asp-for="Nationality"></label>:@Model.Nationality</h6>
+        <div class="card" style="width: 18rem; margin-left:15px;">
+            <img class="card-img-top" src=@Model.ImageLink alt="Card image cap">
+
+        </div>
+    </div>
+    <div class="card" style="width: 40rem; margin-left:15px;">
+        <h5 class="card-title mt-5 mb-5 ml-5">Biography:</h5>
+        <p class="card-title mt-3 mb-5 ml-5 mr-5">@Model.Biography</p>
+
+    </div>
+
+</div>
+<br />
+<h3 style="color:white">List Of Books:</h3>
+@if (Model.Books.Count == 0)
+{
+    <h4 style="color:white">There are not any books inserted for this author...</h4>
+}
+else
+{
+<div class="row">
+    @foreach (var book in Model.Books)
+    {
+        <div class="card" style="width: 18rem; margin-left:15px;">
+            <img class="card-img-top" src="@book.ImageLink" alt="Card image cap">
+            <div class="card-body">
+                <h4 class="text-center">@book.Title</h4>
+            </div>
+        </div>}
+</div>
+}
+

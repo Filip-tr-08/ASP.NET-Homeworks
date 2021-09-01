@@ -1,0 +1,35 @@
+﻿@model List<ReservationListViewModel>
+
+<div class="text-center" style="color:white">
+    <h2 class="display-4">List of reservations:</h2>
+</div>
+<br />
+<div class="row">
+    @foreach (var reservation in @Model)
+    {
+
+
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem; margin-left:10px;">
+        <div class="card-header">Member: @reservation.MemberFullName</div>
+        <div class="card-body">
+            <h6>Books:</h6>
+            <ol>
+                @foreach (var bookTitle in reservation.BookTitles)
+                {
+                    <li>@bookTitle</li>
+                }
+            </ol>
+            <h6>Reservation start: </h6>
+            <p>@reservation.DateTimeBegin</p>
+            <h6>Reservation end: </h6>
+            <p>@reservation.DateTimeEnd</p>
+            <p>Reading @reservation.ReservationMethod</p>
+        </div>
+        <a asp-controller="Reservation" asp-action="Details" asp-route-id="@reservation.Id">See details</a>  
+        <a asp-controller="Reservation" asp-action="Edit" asp-route-id="@reservation.Id">Edit reservation</a>
+        <a asp-controller="Reservation" asp-action="Delete" asp-route-id="@reservation.Id">Delete reservation</a>
+    </div>}
+</div>
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Reservation" class="btn btn-primary">Create reservation</a>
+</div>

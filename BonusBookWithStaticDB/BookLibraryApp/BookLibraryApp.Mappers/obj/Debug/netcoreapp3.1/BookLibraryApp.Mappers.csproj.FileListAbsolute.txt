@@ -1,0 +1,14 @@
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\bin\Debug\netcoreapp3.1\BookLibraryApp.Mappers.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\bin\Debug\netcoreapp3.1\BookLibraryApp.Mappers.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\bin\Debug\netcoreapp3.1\BookLibraryApp.Mappers.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\bin\Debug\netcoreapp3.1\BookLibraryApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\bin\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\bin\Debug\netcoreapp3.1\BookLibraryApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\bin\Debug\netcoreapp3.1\BookLibraryApp.ViewModels.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\obj\Debug\netcoreapp3.1\BookLibraryApp.Mappers.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\obj\Debug\netcoreapp3.1\BookLibraryApp.Mappers.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\obj\Debug\netcoreapp3.1\BookLibraryApp.Mappers.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\obj\Debug\netcoreapp3.1\BookLibraryApp.Mappers.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\obj\Debug\netcoreapp3.1\BookLibraryApp.Mappers.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\obj\Debug\netcoreapp3.1\BookLibraryApp.Mappers.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.Mappers\obj\Debug\netcoreapp3.1\BookLibraryApp.Mappers.pdb

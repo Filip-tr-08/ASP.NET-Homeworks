@@ -1,0 +1,47 @@
+﻿@model BookViewModel
+
+<h3 style="color:white">Edit Book:</h3>
+
+<div class="row">
+    <div class="col-md-6" style="color:white">
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Genre" class="control-label"></label>
+                <select class="form-control" asp-for="Genre" asp-items="Html.GetEnumSelectList<Genre>()"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Author.Id" class="control-label"></label>
+                <select asp-for="Author.Id" asp-items="@(new SelectList(ViewBag.Authors,"Id","AuthorFullName"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pages" class="control-label"></label>
+                <input asp-for="Pages" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="IsOnPromotion" class="control-label"></label>
+                <input type="checkbox" asp-for="IsOnPromotion" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="BookContent" class="control-label"></label>
+                <textarea asp-for="BookContent" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageLink" class="control-label"></label>
+                <input asp-for="ImageLink " class="form-control" />
+            </div>
+
+            <button type="submit" class="btn btn-primary">Update</button>
+        </form>
+    </div>
+</div>
+
+

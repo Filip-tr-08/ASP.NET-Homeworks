@@ -1,0 +1,15 @@
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\bin\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\bin\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\bin\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\bin\Debug\netcoreapp3.1\BookLibraryApp.Domain.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\bin\Debug\netcoreapp3.1\BookLibraryApp.Domain.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\obj\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.csproj.AssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\obj\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\obj\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\obj\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\obj\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\obj\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.dll
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\obj\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.pdb
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\bin\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\bin\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\asp.net domasni\BonusBook\BookLibraryApp\BookLibraryApp.DataAccess\obj\Debug\netcoreapp3.1\BookLibraryApp.DataAccess.genruntimeconfig.cache

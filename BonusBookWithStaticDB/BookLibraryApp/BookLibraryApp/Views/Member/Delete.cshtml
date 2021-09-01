@@ -1,0 +1,24 @@
+﻿@model MemberDetailsViewModel
+
+    <h3 style="color:white">Are you sure you want to delete the following member:</h3>
+
+
+    <div class="text-center" style="color:white">
+        <h2 class="display-4">Member Details:</h2>
+    </div>
+    <br />
+    <br />
+    <div class="card" style="color:white">
+        <div class="card-body">
+            <h5 class="card-title"><label asp-for="FullName"></label>:@Model.FullName</h5>
+            <h6 class="card-subtitle mb-2 text-muted"><label asp-for="Address"></label>:@Model.Address</h6>
+            <h6 class="card-subtitle mb-2 text-muted"><label asp-for="Age"></label>:@Model.Age</h6>
+            <p class="card-subtitle mb-2 text-muted"><label asp-for="DateJoined"></label>:@Model.DateJoined</p>
+        </div>
+    </div>
+    <br />
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger mb-2 mt-2" />
+    </form>
+    <a asp-action="Index" class="btn btn-info">Back/Cancel</a>

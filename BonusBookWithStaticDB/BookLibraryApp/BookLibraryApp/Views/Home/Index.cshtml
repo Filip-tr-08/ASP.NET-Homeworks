@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model HomeIndexViewModel
+
+<div class="jumbotron">
+    <h1>Welcome to my Library app!</h1>
+    <h3>Today on promotion:</h3>
+    <ol>
+        @foreach (string bookTitle in @Model.BooksOnPromotion)
+        {
+            <li>@bookTitle</li>
+        }
+    </ol>
+   
+    <h4>We have @Model.ReservationCount reservations </h4>
+</div>
